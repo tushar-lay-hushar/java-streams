@@ -1,0 +1,13 @@
+
+_
+java:S1854"DRemove this useless assignment to local variable "totalPerCategory".(é¹ÞÌÿÿÿÿÿ
+`
+java:S1854"JRemove this useless assignment to local variable "productNamesByCategory".(¤ðƒ¨
+a
+java:S1854"FRemove this useless assignment to local variable "productsByCategory".(‘¼äöûÿÿÿÿ
+R
+java:S1481"7Remove this unused "productsByCategory" local variable.(‘¼äöûÿÿÿÿ
+Q
+java:S1481";Remove this unused "productNamesByCategory" local variable.(¤ðƒ¨
+P
+java:S1481"5Remove this unused "totalPerCategory" local variable.(é¹ÞÌÿÿÿÿÿ

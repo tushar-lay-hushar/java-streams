@@ -1,0 +1,14 @@
+
+B
+java:S1481",Remove this unused "stream1" local variable.(ðË»Ò
+G
+java:S1481",Remove this unused "stream2" local variable.(¨”Øìýÿÿÿÿ
+G
+java:S1481",Remove this unused "stream3" local variable.(åÅþÓÿÿÿÿÿ
+G
+java:S1481",Remove this unused "stream4" local variable.(ž†É³ÿÿÿÿÿ
+B
+java:S1481",Remove this unused "stream5" local variable.(¹–˜æ
+>
+java:S1481!")Remove this unused "dice" local variable.(ôÌ¢h
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(›À–’ûÿÿÿÿ
